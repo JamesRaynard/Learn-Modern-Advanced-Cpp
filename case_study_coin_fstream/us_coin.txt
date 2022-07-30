@@ -1,0 +1,6 @@
+dollar dollars 100
+half halves 50
+quarter quarters 25
+dime dimes 10
+nickel nickels 5
+penny pennies 1
