@@ -56,7 +56,7 @@ int main() {
 
 	Test test5;
 	cout << "\nAssigning: ";
-	test5 = test;                              // Call copy assignment operator
+	test5 = test2;                             // Call copy assignment operator
 
 	Test test6;
 	cout << "\nAssigning from temporary: ";
