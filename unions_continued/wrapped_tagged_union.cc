@@ -9,19 +9,19 @@ union Token {
 	char c;
 	int i;
 	double d;
-	TokenType type;                            // "Tag" field to indicate which member is in use
 };
 
 class TokenWrapper {
 	Token token;
+	TokenType type;                            // "Tag" field to indicate which member is in use
 public:
 	void set_char(char c) {
-		token.type = TokenType::Char;          // char member is in use
+		type = TokenType::Char;                // char member is in use
 		token.c = c;
 	}
 	
 	double get_double() {
-		if (token.type == TokenType::Double)
+		if (type == TokenType::Double)
 			return token.d;
 		else
 			throw std::invalid_argument("Double member not in use");
