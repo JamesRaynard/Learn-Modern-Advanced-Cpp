@@ -21,7 +21,7 @@ int main() {
 
 	// end() - begin() gives the number of elements
 	auto mid = begin(str);
-	advance(mid, distance(begin(str), end(str))/2);         // Returns iterator to middle element
+	advance(mid, distance(begin(str), end(str))/2);         // mid is iterator to middle element
 	
 	if (mid != end(str)) {
 		cout << "Middle element is " << *mid;
