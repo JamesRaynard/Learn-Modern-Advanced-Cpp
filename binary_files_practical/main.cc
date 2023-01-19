@@ -19,7 +19,8 @@ int main() {
 		
 	// Draw stem of "C"
 	for (int x = 0; x < x_unit; ++x)
-		bmp.set_column(x, cyan);
+		for (int y = 0; y < height; ++y)
+			bmp.set_pixel(x, y, cyan);
 
 	// Draw top and bottom of "C"
 	for (int x = x_unit; x < x_mid; ++x) {
