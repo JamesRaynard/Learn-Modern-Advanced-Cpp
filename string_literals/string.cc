@@ -9,7 +9,7 @@ int main() {
 	cout << "cca: " << cca << endl;
 	
 	string str = "Hello, world!"s;
-	cout << "str: " << cca << endl;
+	cout << "str: " << str << endl;
 	
 	cout << "std::string literal: " << "Hello"s  + ", world!"s << endl;
 }
