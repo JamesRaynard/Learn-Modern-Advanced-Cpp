@@ -48,14 +48,14 @@ class String {
 				delete counter;
 				delete [] data;
 			}
-		}
-	
-		size = arg.size;
-		data = arg.data;
-		counter = arg.counter;
-		
-		if (&arg != this)
+			
+			size = arg.size;
+			data = arg.data;
+			counter = arg.counter;
+			
+			if (&arg != this)
 			++*counter;                    // "this" has been bound - increment the counter
+		}
 		
 		return *this;                               // Return the assigned-to object
 	}
