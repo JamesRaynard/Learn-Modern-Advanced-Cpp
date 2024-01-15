@@ -53,7 +53,6 @@ class String {
 			data = arg.data;
 			counter = arg.counter;
 			
-			if (&arg != this)
 			++*counter;                    // "this" has been bound - increment the counter
 		}
 		
