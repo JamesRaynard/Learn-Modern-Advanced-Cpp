@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/CALLABLE_OBJECTS_function.dir/function.cc.o  -o CALLABLE_OBJECTS_function 

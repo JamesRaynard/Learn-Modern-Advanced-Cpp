@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/reordering_algorithms_ROTATE_COPY.dir/rotate_copy.cc.o  -o reordering_algorithms_ROTATE_COPY 

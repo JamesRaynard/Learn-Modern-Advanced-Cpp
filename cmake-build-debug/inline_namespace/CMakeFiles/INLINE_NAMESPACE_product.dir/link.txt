@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/INLINE_NAMESPACE_product.dir/product.cc.o  -o INLINE_NAMESPACE_product 

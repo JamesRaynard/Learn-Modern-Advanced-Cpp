@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/searching_strings_VOWELS.dir/vowels.cc.o  -o searching_strings_VOWELS 

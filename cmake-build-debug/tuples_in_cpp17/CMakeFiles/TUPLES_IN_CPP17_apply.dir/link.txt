@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/TUPLES_IN_CPP17_apply.dir/apply.cc.o  -o TUPLES_IN_CPP17_apply 

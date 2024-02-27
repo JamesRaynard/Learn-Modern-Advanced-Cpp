@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/UNBUFFERED_INPUT_AND_OUTPUT_get_put.dir/get_put.cc.o  -o UNBUFFERED_INPUT_AND_OUTPUT_get_put 

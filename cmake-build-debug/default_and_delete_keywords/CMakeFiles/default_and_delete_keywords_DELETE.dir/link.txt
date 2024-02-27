@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/default_and_delete_keywords_DELETE.dir/delete.cc.o  -o default_and_delete_keywords_DELETE 

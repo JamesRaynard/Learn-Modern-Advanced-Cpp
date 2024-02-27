@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/min_and_max_algorithms_MINMAX_ELEMENT.dir/minmax_element.cc.o  -o min_and_max_algorithms_MINMAX_ELEMENT 

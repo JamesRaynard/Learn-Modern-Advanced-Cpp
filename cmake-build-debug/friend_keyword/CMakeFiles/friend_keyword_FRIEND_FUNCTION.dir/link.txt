@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/friend_keyword_FRIEND_FUNCTION.dir/friend_function.cc.o  -o friend_keyword_FRIEND_FUNCTION 

@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/INTERFACING_TO_C_add.dir/add.cc.o  -o INTERFACING_TO_C_add 

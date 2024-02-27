@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/virtual_inheritance_NON_VIRTUAL.dir/non_virtual.cc.o  -o virtual_inheritance_NON_VIRTUAL 

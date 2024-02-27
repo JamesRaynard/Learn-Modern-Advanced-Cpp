@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/DECLARATION_INITIALIZATION_initialization.dir/initialization.cc.o  -o DECLARATION_INITIALIZATION_initialization 

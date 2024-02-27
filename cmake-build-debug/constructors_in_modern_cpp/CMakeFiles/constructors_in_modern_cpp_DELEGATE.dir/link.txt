@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/constructors_in_modern_cpp_DELEGATE.dir/delegate.cc.o  -o constructors_in_modern_cpp_DELEGATE 

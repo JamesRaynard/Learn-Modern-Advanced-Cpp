@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/FORWARD_LIST_forward_list.dir/forward_list.cc.o  -o FORWARD_LIST_forward_list 

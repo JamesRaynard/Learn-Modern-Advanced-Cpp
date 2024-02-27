@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/priority_queue_PRIORITY_QUEUE.dir/priority_queue.cc.o  -o priority_queue_PRIORITY_QUEUE 

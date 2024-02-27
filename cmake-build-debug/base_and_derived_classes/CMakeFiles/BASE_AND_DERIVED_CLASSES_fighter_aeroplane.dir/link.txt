@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/BASE_AND_DERIVED_CLASSES_fighter_aeroplane.dir/fighter_aeroplane.cc.o  -o BASE_AND_DERIVED_CLASSES_fighter_aeroplane 

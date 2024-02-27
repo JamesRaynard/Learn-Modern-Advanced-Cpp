@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/PREFIX_AND_POSTFIX_complex.dir/complex.cc.o  -o PREFIX_AND_POSTFIX_complex 

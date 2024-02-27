@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/POINTERS_REFERENCES_AND_INHERITANCE_function_arg.dir/function_arg.cc.o  -o POINTERS_REFERENCES_AND_INHERITANCE_function_arg 

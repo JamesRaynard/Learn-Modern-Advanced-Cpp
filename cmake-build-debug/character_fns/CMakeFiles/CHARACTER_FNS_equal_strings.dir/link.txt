@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/CHARACTER_FNS_equal_strings.dir/equal_strings.cc.o  -o CHARACTER_FNS_equal_strings 

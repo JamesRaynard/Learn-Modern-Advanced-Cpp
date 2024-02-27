@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/unique_pointers_and_custom_deleters_NETWORK_WRONG.dir/network_wrong.cc.o  -o unique_pointers_and_custom_deleters_NETWORK_WRONG 

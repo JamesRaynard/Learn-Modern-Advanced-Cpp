@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/list_operations_SPLICE_FORWARD.dir/splice_forward.cc.o  -o list_operations_SPLICE_FORWARD 

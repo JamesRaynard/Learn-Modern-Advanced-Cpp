@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/DECLTYPE_KEYWORD_use_cases.dir/use_cases.cc.o  -o DECLTYPE_KEYWORD_use_cases 

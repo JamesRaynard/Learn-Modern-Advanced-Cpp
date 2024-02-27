@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/attributes_NODISCARD_STRUCT.dir/nodiscard_struct.cc.o  -o attributes_NODISCARD_STRUCT 

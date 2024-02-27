@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/numeric_algorithms_ACCUMULATE.dir/accumulate.cc.o  -o numeric_algorithms_ACCUMULATE 

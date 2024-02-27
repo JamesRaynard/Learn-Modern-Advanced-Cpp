@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/RANDOM_ACCESS_TO_STREAMS_tell_sstream.dir/tell_sstream.cc.o  -o RANDOM_ACCESS_TO_STREAMS_tell_sstream 

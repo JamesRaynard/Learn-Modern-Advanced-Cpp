@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/FURTHER_NUMERIC_ALGORITHMS_partial_sum.dir/partial_sum.cc.o  -o FURTHER_NUMERIC_ALGORITHMS_partial_sum 

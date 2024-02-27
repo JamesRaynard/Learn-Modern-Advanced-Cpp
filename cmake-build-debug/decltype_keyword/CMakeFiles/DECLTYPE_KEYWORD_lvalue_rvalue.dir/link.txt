@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/DECLTYPE_KEYWORD_lvalue_rvalue.dir/lvalue_rvalue.cc.o  -o DECLTYPE_KEYWORD_lvalue_rvalue 

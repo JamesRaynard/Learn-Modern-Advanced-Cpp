@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/auto_keyword_AUTO_FUNC.dir/auto_func.cc.o  -o auto_keyword_AUTO_FUNC 

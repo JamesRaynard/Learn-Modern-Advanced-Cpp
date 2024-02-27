@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/prefix_and_postfix_COMPLEX.dir/complex.cc.o  -o prefix_and_postfix_COMPLEX 

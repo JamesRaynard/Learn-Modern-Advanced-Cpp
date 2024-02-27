@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/PERFECT_FORWARDING_PRACTICAL_make_test.dir/make_test.cc.o  -o PERFECT_FORWARDING_PRACTICAL_make_test 

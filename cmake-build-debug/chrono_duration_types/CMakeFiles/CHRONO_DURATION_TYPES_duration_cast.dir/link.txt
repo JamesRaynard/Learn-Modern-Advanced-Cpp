@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/CHRONO_DURATION_TYPES_duration_cast.dir/duration_cast.cc.o  -o CHRONO_DURATION_TYPES_duration_cast 

@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/random_walk_practical_RANDOM_WALK_1D.dir/random_walk_1d.cc.o  -o random_walk_practical_RANDOM_WALK_1D 

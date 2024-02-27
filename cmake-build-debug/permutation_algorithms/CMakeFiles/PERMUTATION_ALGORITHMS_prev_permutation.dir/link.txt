@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/PERMUTATION_ALGORITHMS_prev_permutation.dir/prev_permutation.cc.o  -o PERMUTATION_ALGORITHMS_prev_permutation 

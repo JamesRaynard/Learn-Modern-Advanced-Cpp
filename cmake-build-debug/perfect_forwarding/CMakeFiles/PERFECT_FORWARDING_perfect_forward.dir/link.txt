@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/PERFECT_FORWARDING_perfect_forward.dir/perfect_forward.cc.o  -o PERFECT_FORWARDING_perfect_forward 

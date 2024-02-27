@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/using_special_member_functions_in_cpp11_COPY_ONLY.dir/copy_only.cc.o  -o using_special_member_functions_in_cpp11_COPY_ONLY 

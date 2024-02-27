@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/WRITE_ONLY_ALGORITHMS_fill_n_no_bug_inserter.dir/fill_n_no_bug_inserter.cc.o  -o WRITE_ONLY_ALGORITHMS_fill_n_no_bug_inserter 

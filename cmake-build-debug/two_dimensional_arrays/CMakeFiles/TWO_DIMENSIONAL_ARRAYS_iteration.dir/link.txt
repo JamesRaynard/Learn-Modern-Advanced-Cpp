@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/TWO_DIMENSIONAL_ARRAYS_iteration.dir/iteration.cc.o  -o TWO_DIMENSIONAL_ARRAYS_iteration 

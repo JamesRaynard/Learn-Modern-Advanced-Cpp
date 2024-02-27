@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/MEMBER_AND_NON_MEMBER_plus_member.dir/plus_member.cc.o  -o MEMBER_AND_NON_MEMBER_plus_member 

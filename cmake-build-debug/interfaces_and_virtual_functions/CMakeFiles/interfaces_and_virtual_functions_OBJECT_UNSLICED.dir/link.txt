@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/interfaces_and_virtual_functions_OBJECT_UNSLICED.dir/object_unsliced.cc.o  -o interfaces_and_virtual_functions_OBJECT_UNSLICED 

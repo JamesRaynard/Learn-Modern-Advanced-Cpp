@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/TEMPLATE_SPECIALIZATION_specialization_func.dir/specialization_func.cc.o  -o TEMPLATE_SPECIALIZATION_specialization_func 

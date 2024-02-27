@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/SORTING_ALGORITHMS_CONTINUED_partial_sort_copy.dir/partial_sort_copy.cc.o  -o SORTING_ALGORITHMS_CONTINUED_partial_sort_copy 

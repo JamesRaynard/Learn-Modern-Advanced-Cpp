@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/STREAM_MANIPULATORS_FORMATTING_setw.dir/setw.cc.o  -o STREAM_MANIPULATORS_FORMATTING_setw 

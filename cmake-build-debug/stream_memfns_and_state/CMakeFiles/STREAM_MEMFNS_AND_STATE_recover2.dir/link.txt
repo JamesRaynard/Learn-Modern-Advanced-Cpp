@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/STREAM_MEMFNS_AND_STATE_recover2.dir/recover2.cc.o  -o STREAM_MEMFNS_AND_STATE_recover2 

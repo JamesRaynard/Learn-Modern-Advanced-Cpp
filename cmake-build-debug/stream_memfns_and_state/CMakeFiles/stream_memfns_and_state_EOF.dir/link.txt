@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/stream_memfns_and_state_EOF.dir/eof.cc.o  -o stream_memfns_and_state_EOF 

@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/conways_game_of_life_practical_MAIN.dir/main.cc.o  -o conways_game_of_life_practical_MAIN 
