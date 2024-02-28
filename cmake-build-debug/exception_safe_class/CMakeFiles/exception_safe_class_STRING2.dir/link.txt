@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/exception_safe_class_STRING2.dir/string2.cc.o  -o exception_safe_class_STRING2 

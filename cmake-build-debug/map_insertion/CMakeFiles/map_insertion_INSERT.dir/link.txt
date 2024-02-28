@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/map_insertion_INSERT.dir/insert.cc.o  -o map_insertion_INSERT 

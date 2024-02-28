@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/variadic_templates_SIZEOF.dir/sizeof.cc.o  -o variadic_templates_SIZEOF 

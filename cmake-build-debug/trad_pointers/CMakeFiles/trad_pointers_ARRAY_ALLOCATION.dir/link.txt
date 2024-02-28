@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/trad_pointers_ARRAY_ALLOCATION.dir/array_allocation.cc.o  -o trad_pointers_ARRAY_ALLOCATION 

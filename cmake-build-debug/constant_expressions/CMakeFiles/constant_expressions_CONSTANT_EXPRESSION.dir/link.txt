@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/constant_expressions_CONSTANT_EXPRESSION.dir/constant_expression.cc.o  -o constant_expressions_CONSTANT_EXPRESSION 

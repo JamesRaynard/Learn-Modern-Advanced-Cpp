@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/COMPILE_TIME_PROGRAMMING_OVERVIEW_traits.dir/traits.cc.o  -o COMPILE_TIME_PROGRAMMING_OVERVIEW_traits 

@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/algorithms_with_predicates_SORT.dir/sort.cc.o  -o algorithms_with_predicates_SORT 

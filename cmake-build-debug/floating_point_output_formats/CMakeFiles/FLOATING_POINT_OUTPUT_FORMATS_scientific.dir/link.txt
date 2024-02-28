@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/FLOATING_POINT_OUTPUT_FORMATS_scientific.dir/scientific.cc.o  -o FLOATING_POINT_OUTPUT_FORMATS_scientific 

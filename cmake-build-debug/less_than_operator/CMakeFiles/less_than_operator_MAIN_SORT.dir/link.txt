@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/less_than_operator_MAIN_SORT.dir/main_sort.cc.o  -o less_than_operator_MAIN_SORT 

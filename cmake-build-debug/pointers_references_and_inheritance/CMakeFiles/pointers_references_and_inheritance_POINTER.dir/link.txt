@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/pointers_references_and_inheritance_POINTER.dir/pointer.cc.o  -o pointers_references_and_inheritance_POINTER 

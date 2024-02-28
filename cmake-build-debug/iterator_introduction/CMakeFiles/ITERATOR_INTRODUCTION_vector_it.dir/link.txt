@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/ITERATOR_INTRODUCTION_vector_it.dir/vector_it.cc.o  -o ITERATOR_INTRODUCTION_vector_it 

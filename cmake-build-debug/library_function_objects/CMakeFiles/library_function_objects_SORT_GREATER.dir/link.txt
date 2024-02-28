@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/library_function_objects_SORT_GREATER.dir/sort_greater.cc.o  -o library_function_objects_SORT_GREATER 

@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/adding_elements_strings_INSERT2.dir/insert2.cc.o  -o adding_elements_strings_INSERT2 

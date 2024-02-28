@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/lambda_expressions_practical_ALGO_LAMBDA.dir/algo_lambda.cc.o  -o lambda_expressions_practical_ALGO_LAMBDA 

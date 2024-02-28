@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/MISCELLANEOUS_TEMPLATE_FEATURES_default_class.dir/default_class.cc.o  -o MISCELLANEOUS_TEMPLATE_FEATURES_default_class 

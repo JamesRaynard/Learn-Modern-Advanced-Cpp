@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/ADDING_ELEMENTS_STRINGS_insert_iterators2.dir/insert_iterators2.cc.o  -o ADDING_ELEMENTS_STRINGS_insert_iterators2 

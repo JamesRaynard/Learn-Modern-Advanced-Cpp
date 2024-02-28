@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/loops_and_iterators_RANGE_FOR.dir/range_for.cc.o  -o loops_and_iterators_RANGE_FOR 

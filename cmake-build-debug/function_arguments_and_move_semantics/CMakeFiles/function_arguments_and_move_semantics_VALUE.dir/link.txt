@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/function_arguments_and_move_semantics_VALUE.dir/value.cc.o  -o function_arguments_and_move_semantics_VALUE 

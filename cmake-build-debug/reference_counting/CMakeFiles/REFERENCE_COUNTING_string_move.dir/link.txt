@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/REFERENCE_COUNTING_string_move.dir/string_move.cc.o  -o REFERENCE_COUNTING_string_move 

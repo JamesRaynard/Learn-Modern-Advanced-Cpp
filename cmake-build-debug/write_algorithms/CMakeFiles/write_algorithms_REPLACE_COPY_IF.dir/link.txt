@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/write_algorithms_REPLACE_COPY_IF.dir/replace_copy_if.cc.o  -o write_algorithms_REPLACE_COPY_IF 

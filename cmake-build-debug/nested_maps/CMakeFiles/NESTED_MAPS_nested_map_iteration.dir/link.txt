@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/NESTED_MAPS_nested_map_iteration.dir/nested_map_iteration.cc.o  -o NESTED_MAPS_nested_map_iteration 

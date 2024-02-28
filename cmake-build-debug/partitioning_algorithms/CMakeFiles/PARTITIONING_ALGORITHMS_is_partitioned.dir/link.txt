@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/PARTITIONING_ALGORITHMS_is_partitioned.dir/is_partitioned.cc.o  -o PARTITIONING_ALGORITHMS_is_partitioned 

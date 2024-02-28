@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/if_statements_and_switch_in_cpp17_SWITCH.dir/switch.cc.o  -o if_statements_and_switch_in_cpp17_SWITCH 

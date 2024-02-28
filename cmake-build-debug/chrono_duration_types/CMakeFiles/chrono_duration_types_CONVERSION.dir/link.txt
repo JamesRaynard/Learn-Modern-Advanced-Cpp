@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/chrono_duration_types_CONVERSION.dir/conversion.cc.o  -o chrono_duration_types_CONVERSION 

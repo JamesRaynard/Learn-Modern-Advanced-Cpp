@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/weak_pointer_ALIAS_SAFE.dir/alias_safe.cc.o  -o weak_pointer_ALIAS_SAFE 

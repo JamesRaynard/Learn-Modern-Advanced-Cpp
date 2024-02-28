@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/sorting_algorithms_MAIN_STABLE.dir/main_stable.cc.o  -o sorting_algorithms_MAIN_STABLE 

@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/CHRONO_CLOCKS_AND_TIME_POINTS_timer.dir/timer.cc.o  -o CHRONO_CLOCKS_AND_TIME_POINTS_timer 

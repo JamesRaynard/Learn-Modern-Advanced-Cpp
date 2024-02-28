@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/write_only_algorithms_FILL_N_BUG.dir/fill_n_bug.cc.o  -o write_only_algorithms_FILL_N_BUG 

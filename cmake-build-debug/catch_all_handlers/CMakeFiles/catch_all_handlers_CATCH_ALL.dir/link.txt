@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/catch_all_handlers_CATCH_ALL.dir/catch_all.cc.o  -o catch_all_handlers_CATCH_ALL 

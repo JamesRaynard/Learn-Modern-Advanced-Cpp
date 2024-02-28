@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/INSERT_ITERATORS_back_insert.dir/back_insert.cc.o  -o INSERT_ITERATORS_back_insert 

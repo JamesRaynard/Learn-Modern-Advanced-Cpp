@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/further_numeric_algos_contd_INNER_PRODUCT.dir/inner_product.cc.o  -o further_numeric_algos_contd_INNER_PRODUCT 

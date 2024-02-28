@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/numeric_types_and_literals_INT_SIZE.dir/int_size.cc.o  -o numeric_types_and_literals_INT_SIZE 

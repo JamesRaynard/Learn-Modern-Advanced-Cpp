@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/EQUALITY_AND_INEQUALITY_OPERATORS_student.dir/student.cc.o  -o EQUALITY_AND_INEQUALITY_OPERATORS_student 

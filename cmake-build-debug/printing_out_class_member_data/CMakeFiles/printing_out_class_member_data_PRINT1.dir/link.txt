@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/printing_out_class_member_data_PRINT1.dir/print1.cc.o  -o printing_out_class_member_data_PRINT1 

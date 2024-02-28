@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/emplace_EMPLACE_BACK.dir/emplace_back.cc.o  -o emplace_EMPLACE_BACK 

@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/associative_container_custom_types_BOOK_INDEX.dir/book_index.cc.o  -o associative_container_custom_types_BOOK_INDEX 

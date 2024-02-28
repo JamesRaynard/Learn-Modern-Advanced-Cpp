@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/MISCELLANEOUS_STRING_OPERATIONS_data.dir/data.cc.o  -o MISCELLANEOUS_STRING_OPERATIONS_data 

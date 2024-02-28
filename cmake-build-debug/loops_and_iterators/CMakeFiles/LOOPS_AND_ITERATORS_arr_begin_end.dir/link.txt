@@ -1,1 +1,0 @@
-/usr/local/bin/c++   -Wall -Werror -O0 -pthread  -g  -Wall -Werror -O0 -pthread  -Wall -Werror -O0 -pthread    CMakeFiles/LOOPS_AND_ITERATORS_arr_begin_end.dir/arr_begin_end.cc.o  -o LOOPS_AND_ITERATORS_arr_begin_end 
