@@ -13,7 +13,7 @@ int main() {
 	
 	auto second = l.begin();
 	advance(second, 1);                           // i is an iterator to the second element
-	l.insert_after(second, 2);                    // Insert a new element after the first element
+	l.insert_after(second, 2);                    // Insert a new element after the second element
 	
 	cout << "Elements in list after inserting 2" << endl;
 	for (auto el: l)
