@@ -9,11 +9,11 @@ int main() {
 
 	cout << "b1 is  " << b1 << endl;                 // Displays 10101110
 	cout << "~b1 is " << ~b1 << endl;                // Displays 01010001
-	cout << "b2 is  " << b2 << endl;                 // Displays 00101010
+	cout << "b2 is  " << b2 << endl;                 // Displays 00101110
 
-	cout << "b1 & b2 is " <<(b1 & b2) << endl;       // Displays 00101010
-	cout << "b1 | b2 is " << (b1 | b2) << endl;      // Displays 10001110
-	cout << "b1 ^ b2 is " << (b1 ^ b2) << endl;      // Displays 10000100
+	cout << "b1 & b2 is " <<(b1 & b2) << endl;       // Displays 00101110
+	cout << "b1 | b2 is " << (b1 | b2) << endl;      // Displays 10101110
+	cout << "b1 ^ b2 is " << (b1 ^ b2) << endl;      // Displays 10000000
 
 	cout << "b1 << 4 is " << (b1 << 4) << endl;      // Displays 11100000
 	cout << "b2 >> 2 is " << (b2 >> 2) << endl;      // Displays 00001011
