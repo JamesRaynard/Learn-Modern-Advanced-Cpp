@@ -40,5 +40,5 @@ int main() {
 	auto b7 = b1;
 	cout << "Calling b7.flip(7)" << endl;
 	b7.flip(7);                           // Invert bit 7
-	cout << "b5 = " << b5 << endl;
+	cout << "b7 = " << b7 << endl;
 }
