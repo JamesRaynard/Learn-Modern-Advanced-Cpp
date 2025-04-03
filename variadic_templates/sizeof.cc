@@ -11,6 +11,6 @@ void func(Args... args) {                   // args is a list of arguments whose
 int main() {
 	int i{42}; double d{0.0}; string s{"text"};
 
-	func(s);                                // Instantiated as func(string&);
+	func(s);                                // Instantiated as func(string);
 	func(i, d, s);                          // Instantiated as func(int, double, string);
 }
